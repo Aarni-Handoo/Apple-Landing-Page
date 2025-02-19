@@ -22,6 +22,7 @@ left:0;
 
 
 
+
 nav 
 {
 display:flex;
@@ -104,6 +105,7 @@ text-decoration: underline;
 
 
 
+
 .hero {
 text-align: center;
 padding: 5px 5px;
@@ -154,6 +156,7 @@ margin-top: 1px;
 }
 
 
+/*SPACE*/
 
 .white-bg
 {
@@ -162,6 +165,7 @@ width:100%;
 height:1px;
 margin-top:10px;
 }
+
 
 
 
@@ -212,6 +216,7 @@ margin-left: 10px;
 background: #005bb5;
 }
 
+/*SPACE*/
 
 .white-bg
 {
@@ -283,6 +288,7 @@ height: 400px;
 
 
 
+/*SPACE*/
 
 .white-bg
 {
@@ -351,5 +357,4 @@ margin-left: 10px;
 .btn:hover {
 background: #005bb5;
 }
-
 
