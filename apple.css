@@ -21,7 +21,6 @@ left:0;
 }
 
 
-/*NAVLINK*/
 
 nav 
 {
@@ -104,7 +103,6 @@ text-decoration: underline;
 }
 
 
-/*HERO*/
 
 .hero {
 text-align: center;
@@ -149,14 +147,13 @@ background: #005bb5;
 
 
 .h4 {
-font-size: 8px; /* Adjust size as needed */
-color: #b6b6bb; /* Optional: Light gray for subtle emphasis */
-margin-top: 1px; /* Adjust spacing */
+font-size: 8px; 
+color: #b6b6bb; 
+margin-top: 1px; 
     
 }
 
 
-/*SPACE*/
 
 .white-bg
 {
@@ -167,7 +164,6 @@ margin-top:10px;
 }
 
 
-/*APPLE16*/
 
 .apple16 {
 text-align: center;
@@ -216,7 +212,6 @@ margin-left: 10px;
 background: #005bb5;
 }
 
-/*SPACE*/
 
 .white-bg
 {
@@ -227,7 +222,6 @@ margin-top:30px;
 }
 
 
-/*APPLEWATCH*/
 
 .apple-watch {
 text-align: center;
@@ -289,7 +283,6 @@ height: 400px;
 
 
 
-/*SPACE*/
 
 .white-bg
 {
@@ -299,7 +292,7 @@ height:15px;
 margin-top:0px;
 }
 
-/*MACBOOK*/
+
 
 .macbook {
     text-align: right;
